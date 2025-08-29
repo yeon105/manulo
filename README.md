@@ -84,7 +84,13 @@ REACT_APP_FRONT_URL=http://localhost:3000
 ```bash
 docker compose up -d --build
 ```
-- Backend: http://localhost:8080
 - Frontend: http://localhost:3000
+- Backend: http://localhost:8080
+
+---
+
+## 📄 추가 문서  
+
+- [프로젝트 소개 (Wiki)](../../wiki/01_프로젝트-소개)
 
 ---
